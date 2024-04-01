@@ -16,7 +16,7 @@ The Hulu TV Clone App is a cloning project aimed at replicating the interface an
 - **Interactive Functionality**: Adding dynamic interactions using jQuery to enhance user experience.
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/farazkhan2000/netflix-clone.git`
+1. Clone the repo: `git clone https://github.com/Seann21/HuluTv-CloneApp.git`
 2. Go to project directory: `cd HuluTv-CloneApp`
 3. Open your Code Editor and Install the live preview Extension to go straight to your favorite browser
 
