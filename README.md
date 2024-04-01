@@ -1,9 +1,14 @@
 # Hulu Tv Clone App
 
+<img src="img/Hulu Tv.png" alt="hulutv" width="700" height="650" align="center" />
+
+
 The Hulu TV Clone App is a cloning project aimed at replicating the interface and features of the Hulu streaming video service. This project utilizes HTML, CSS, and jQuery to build a user interface similar to Hulu.
 
+
+
 ### Live Demo
-[Hulu tv Clone](https://main--dynamic-dusk-665673.netlify.app/)
+[Hulu tv Clone](https://hulu-tv-clone-app.vercel.app/)
 
 ## Features
 - **Hulu-Like Interface**: Built with React.js and Vite for fast rendering.
