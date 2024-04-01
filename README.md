@@ -1,6 +1,6 @@
 # Hulu Tv Clone App
 
-<img src="img/Hulu Tv.png" alt="hulutv" width="700" height="650" align="center" />
+<img src="img/Hulu Tv.png" alt="hulutv" width="600" height="500" align="center" />
 
 
 The Hulu TV Clone App is a cloning project aimed at replicating the interface and features of the Hulu streaming video service. This project utilizes HTML, CSS, and jQuery to build a user interface similar to Hulu.
